@@ -1,3 +1,7 @@
+## This Repository is Archived
+
+This fork was initially made to attempt to contribute a patch to a perceived issue in the upstream repository, but I'm no longer actively working on it so it's now archived.
+
 Sharness
 ========
 
